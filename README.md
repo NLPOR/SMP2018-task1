@@ -2,6 +2,12 @@
 深度学习用于今日日头条用户画像
 
 相关文件说明
+<p>-- config/     网络结构的参数配置
+<p>-- data/       原数据，参考SMP2018官网数据下载
+<p>-- models/     训练的模型保存文件夹
+<p>-- results/    最后的输出结果保存文件夹
+
+
 <p>-- data_helper.py 数据预处理过程，生成相应的文件
 <p>-- cnn_char.py  以字为单位的cnn网络结构
 <p>-- cnn_char_predict.py 以字（char）为单位的cnn在测试集上的预测结果
