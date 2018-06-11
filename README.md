@@ -14,4 +14,5 @@
 
 
 <h>机器学习方法
-<p>--svm.py   使用机器学习方法SVM的           
+<p>--svm.py   使用机器学习方法SVM的训练过程     
+<p>--predict.py  使用SVM的预测过程
