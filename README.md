@@ -19,6 +19,6 @@
 <p>--lstm_example.py    lstm实现分类在手写数字识别上的简单实例
 
 
-<h>机器学习方法
+<h size =5>机器学习方法
 <p>--svm.py   使用机器学习方法SVM的训练过程     
 <p>--predict.py  使用SVM的预测过程
